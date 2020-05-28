@@ -1,0 +1,32 @@
+This file:
+C:\Users\sxp200070\Documents\IAR Embedded Workbench\arm\bmdware\ConvertToIARReport.txt
+
+Project file conversion(s)
+------------------------------------
+
+C:\Users\sxp200070\Documents\IAR Embedded Workbench\arm\bmdware\nrf51\firmware\arm\bmdware.uvprojx
+____________________________________________________________________________________________________
+Project converted to => C:\Users\sxp200070\Documents\IAR Embedded Workbench\arm\bmdware\nrf51\firmware\arm\bmdware.ewp
+Workspace created => C:\Users\sxp200070\Documents\IAR Embedded Workbench\arm\bmdware\nrf51\firmware\arm\bmdware.eww
+____________________________________________________________________________________________________
+
+C:\Users\sxp200070\Documents\IAR Embedded Workbench\arm\bmdware\nrf5x\firmware\arm\bmdware.uvprojx
+____________________________________________________________________________________________________
+'$PROJ_DIR$\..\..\..\common\lib\simple_uarte.c' was excluded in the 'release_nrf52' project configuration
+'$PROJ_DIR$\..\..\..\common\lib\simple_uarte.c' was excluded in the 'debug_nrf52' project configuration
+'$PROJ_DIR$\..\..\..\common\lib\simple_uarte.c' was excluded in the 'release_nrf51' project configuration
+'$PROJ_DIR$\..\..\..\common\lib\simple_uarte.c' was excluded in the 'debug_nrf51' project configuration
+'$PROJ_DIR$\..\bmd_dtm.c' was excluded in the 'release_nrf51' project configuration
+'$PROJ_DIR$\..\bmd_dtm.c' was excluded in the 'debug_nrf51' project configuration
+'$PROJ_DIR$\..\bmd_selftest.c' was excluded in the 'release_nrf51' project configuration
+'$PROJ_DIR$\..\bmd_selftest.c' was excluded in the 'debug_nrf51' project configuration
+'$PROJ_DIR$\..\bmd200_dtm.c' was excluded in the 'release_nrf52' project configuration
+'$PROJ_DIR$\..\bmd200_dtm.c' was excluded in the 'debug_nrf52' project configuration
+'$PROJ_DIR$\..\bmd200_selftest.c' was excluded in the 'release_nrf52' project configuration
+'$PROJ_DIR$\..\bmd200_selftest.c' was excluded in the 'debug_nrf52' project configuration
+Project converted to => C:\Users\sxp200070\Documents\IAR Embedded Workbench\arm\bmdware\nrf5x\firmware\arm\bmdware.ewp
+Workspace created => C:\Users\sxp200070\Documents\IAR Embedded Workbench\arm\bmdware\nrf5x\firmware\arm\bmdware.eww
+____________________________________________________________________________________________________
+
+Source code substitutions
+-----------------------------------
